@@ -1,0 +1,16 @@
+Scenario - nvMMNb_naplsHarmonization_03172015blue
+Logfile written - 03/17/2015 15:57:27
+
+Subject	Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+test	1	Picture	83	-9833	0	1	15165	3	0	15000	other	0
+test	1	Picture	82	10332	20165	1	15166	5	20000	15000	other	0
+test	1	Picture	81	30332	40165	1	4299	2	40000	15000	other	0
+test	1	Quit		33903	43736
+
+
+Event Type	Code	Type	Response	RT	RT Uncertainty	Time	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur
+
+Picture	83	other				-9833	1	15165	3	0	15000
+Picture	82	other				10332	1	15166	5	20000	15000
+Picture	81	other				30332	1	4299	2	40000	15000

@@ -1,0 +1,743 @@
+Scenario - NA1_naplsHarmonization03172015
+Logfile written - 03/17/2015 16:07:53
+
+Subject	Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+test	1	Picture	83	-9833	0	1	15165	2	0	15000	other	0
+test	1	Picture	82	10332	20165	1	15166	3	20000	15000	other	0
+test	1	Picture	81	30332	40165	1	15166	3	40000	15000	other	0
+test	2	Sound	s	45500	0	5			0		other	0
+test	3	Sound	s	58570	0	6			0		other	0
+test	4	Sound	s	69500	0	6			0		other	0
+test	5	Sound	s	82030	0	6			0		other	0
+test	6	Sound	d	93760	0	6			0		false_alarm	9
+test	6	Response	10	97898	4138	4
+test	7	Sound	s	107090	0	6			0		other	0
+test	8	Sound	s	119090	0	6			0		other	0
+test	9	Sound	s	131360	0	6			0		other	0
+test	10	Sound	d	143360	0	6			0		other	0
+test	11	Sound	s	155890	0	6			0		other	0
+test	12	Sound	s	167090	0	6			0		other	0
+test	13	Sound	s	180420	0	6			0		other	0
+test	14	Sound	d	191090	0	6			0		other	0
+test	15	Sound	s	202560	0	6			0		other	0
+test	16	Sound	s	214560	0	6			0		other	0
+test	17	Sound	s	227890	0	6			0		other	0
+test	18	Sound	s	240690	0	6			0		other	0
+test	19	Sound	d	253220	0	6			0		false_alarm	23
+test	19	Response	10	257585	4365	1
+test	20	Sound	s	265750	0	6			0		other	0
+test	21	Sound	s	278550	0	6			0		other	0
+test	22	Sound	s	290820	0	5			0		other	0
+test	23	Sound	s	302550	0	6			0		other	0
+test	24	Sound	d	314820	0	6			0		false_alarm	29
+test	24	Response	10	326646	11826	2
+test	25	Sound	s	326820	0	6			0		other	0
+test	26	Sound	s	339350	0	6			0		other	0
+test	27	Sound	s	351350	0	6			0		other	0
+test	28	Sound	d	362020	0	6			0		false_alarm	34
+test	28	Response	10	366332	4312	2
+test	28	Response	10	368196	6176	4
+test	29	Sound	s	372950	0	6			0		other	0
+test	30	Sound	s	384680	0	6			0		other	0
+test	31	Sound	s	397480	0	6			0		other	0
+test	32	Sound	s	410551	0	5			0		other	0
+test	33	Sound	s	422021	0	6			0		other	0
+test	34	Sound	d	434021	0	6			0		false_alarm	42
+test	34	Response	10	437579	3558	3
+test	35	Sound	s	445221	0	6			0		other	0
+test	36	Sound	s	456951	0	7			0		other	0
+test	37	Sound	s	469481	0	6			0		other	0
+test	38	Sound	d	481751	0	6			0		false_alarm	47
+test	38	Response	10	486185	4434	4
+test	38	Response	10	486329	4578	1
+test	39	Sound	s	493221	0	6			0		other	0
+test	40	Sound	s	503892	0	5			0		other	0
+test	41	Sound	s	516962	0	6			0		other	0
+test	42	Sound	s	528962	0	6			0		other	0
+test	43	Sound	d	540162	0	6			0		false_alarm	54
+test	43	Response	10	543515	3353	1
+test	43	Response	10	545385	5223	4
+test	44	Sound	s	553232	0	6			0		other	0
+test	45	Sound	s	564962	0	6			0		other	0
+test	46	Sound	s	577232	0	6			0		other	0
+test	47	Sound	d	588702	0	6			0		false_alarm	60
+test	47	Response	10	592084	3382	4
+test	48	Sound	s	602032	0	6			0		other	0
+test	49	Sound	s	614832	0	6			0		other	0
+test	50	Sound	s	626302	0	6			0		other	0
+test	51	Sound	s	638302	0	6			0		other	0
+test	52	Sound	s	651102	0	6			0		other	0
+test	53	Sound	s	663102	0	6			0		other	0
+test	54	Sound	d	673772	0	6			0		false_alarm	68
+test	54	Response	10	677261	3489	1
+test	55	Sound	s	686302	0	6			0		other	0
+test	56	Sound	s	699102	0	6			0		other	0
+test	57	Sound	d	710032	0	6			0		false_alarm	72
+test	57	Response	10	713084	3052	3
+test	58	Sound	s	723362	0	6			0		other	0
+test	59	Sound	s	735892	0	6			0		other	0
+test	60	Sound	s	748692	0	6			0		other	0
+test	61	Sound	s	761492	0	6			0		other	0
+test	62	Sound	d	772162	0	6			0		false_alarm	78
+test	62	Response	10	775383	3221	3
+test	63	Sound	s	783092	0	6			0		other	0
+test	64	Sound	s	794022	0	6			0		other	0
+test	65	Sound	s	807092	0	6			0		other	0
+test	66	Sound	s	818562	0	6			0		other	0
+test	67	Sound	s	830832	0	6			0		other	0
+test	68	Sound	d	842032	0	6			0		false_alarm	85
+test	68	Response	10	845683	3651	4
+test	68	Response	10	845883	3851	3
+test	69	Sound	s	853232	0	6			0		other	0
+test	70	Sound	s	866302	0	6			0		other	0
+test	71	Sound	s	879372	0	6			0		other	0
+test	72	Sound	s	890572	0	6			0		other	0
+test	73	Sound	d	902302	0	6			0		false_alarm	92
+test	73	Response	10	906182	3880	4
+test	74	Sound	s	912972	0	6			0		other	0
+test	75	Sound	s	926042	0	6			0		other	0
+test	76	Sound	d	937512	0	6			0		false_alarm	96
+test	76	Response	10	941182	3670	4
+test	76	Response	10	941316	3804	2
+test	77	Sound	s	948185	0	5			0		other	0
+test	78	Sound	s	961255	0	6			0		other	0
+test	79	Sound	s	972185	0	6			0		other	0
+test	80	Sound	s	983115	0	6			0		other	0
+test	81	Sound	s	996445	0	6			0		other	0
+test	82	Sound	d	1008175	0	6			0		false_alarm	104
+test	82	Response	10	1011939	3764	2
+test	83	Sound	s	1020445	0	6			0		other	0
+test	84	Sound	s	1031645	0	6			0		other	0
+test	85	Sound	s	1043915	0	6			0		other	0
+test	86	Sound	s	1057245	0	6			0		other	0
+test	87	Sound	s	1068975	0	6			0		other	0
+test	88	Sound	s	1080445	0	6			0		other	0
+test	89	Sound	s	1093245	0	6			0		other	0
+test	90	Sound	d	1104445	0	6			0		false_alarm	113
+test	90	Response	10	1107681	3236	4
+test	91	Sound	s	1116175	0	6			0		other	0
+test	92	Sound	s	1127105	0	6			0		other	0
+test	93	Sound	s	1139375	0	6			0		other	0
+test	94	Sound	s	1150575	0	6			0		other	0
+test	95	Sound	s	1162045	0	6			0		other	0
+test	96	Sound	s	1175375	0	6			0		other	0
+test	97	Sound	d	1188705	0	6			0		false_alarm	121
+test	97	Response	10	1192980	4275	4
+test	98	Sound	s	1199635	0	6			0		other	0
+test	99	Sound	s	1212165	0	6			0		other	0
+test	100	Sound	s	1222835	0	6			0		other	0
+test	101	Sound	d	1233505	0	6			0		false_alarm	126
+test	101	Response	10	1237380	3875	4
+test	101	Response	10	1237559	4054	1
+test	102	Picture	10sec_REST	1244813	0	1	100165	2	0	next	other	0
+test	102	Picture	countdown10	1344978	100165	1	10000	2	100000	next	other	0
+test	102	Picture	countdown9	1354978	110165	1	9999	2	110000	next	other	0
+test	102	Picture	countdown8	1364977	120164	1	10000	2	120000	next	other	0
+test	102	Picture	countdown7	1374977	130164	1	10000	2	130000	next	other	0
+test	102	Picture	countdown6	1384977	140164	1	10000	2	140000	next	other	0
+test	102	Picture	countdown5	1394977	150164	1	10000	2	150000	next	other	0
+test	102	Picture	countdown4	1404977	160164	1	10000	2	160000	next	other	0
+test	102	Picture	countdown3	1414977	170164	1	9999	3	170000	next	other	0
+test	102	Picture	countdown2	1424976	180163	2	10000	3	180000	next	other	0
+test	102	Picture	countdown1	1434976	190163	1	10000	2	190000	10000	other	0
+test	103	Sound	s	1444813	0	6			0		other	0
+test	104	Sound	s	1455743	0	6			0		other	0
+test	105	Sound	s	1468273	0	6			0		other	0
+test	106	Sound	s	1481343	0	6			0		other	0
+test	107	Sound	s	1493343	0	6			0		other	0
+test	108	Sound	d	1504013	0	6			0		false_alarm	145
+test	108	Response	10	1507239	3226	1
+test	109	Sound	s	1516013	0	6			0		other	0
+test	110	Sound	s	1529343	0	6			0		other	0
+test	111	Sound	s	1541613	0	6			0		other	0
+test	112	Sound	d	1554143	0	6			0		false_alarm	150
+test	112	Response	10	1557968	3825	4
+test	112	Response	10	1558168	4025	4
+test	113	Sound	s	1566144	0	5			0		other	0
+test	114	Sound	s	1577344	0	6			0		other	0
+test	115	Sound	s	1590675	0	5			0		other	0
+test	116	Sound	s	1602945	0	6			0		other	0
+test	117	Sound	d	1616275	0	6			0		false_alarm	157
+test	117	Response	10	1621467	5192	4
+test	117	Response	10	1623367	7092	4
+test	118	Sound	s	1628005	0	6			0		other	0
+test	119	Sound	s	1639736	0	6			0		other	0
+test	120	Sound	d	1652266	0	6			0		false_alarm	162
+test	120	Response	10	1655867	3601	4
+test	121	Sound	s	1665066	0	6			0		other	0
+test	122	Sound	s	1677596	0	6			0		other	0
+test	123	Sound	s	1689066	0	6			0		other	0
+test	124	Sound	s	1700796	0	6			0		other	0
+test	125	Sound	s	1713066	0	6			0		other	0
+test	126	Sound	d	1725066	0	6			0		false_alarm	169
+test	126	Response	10	1728367	3301	3
+test	126	Response	10	1728483	3417	1
+test	127	Sound	s	1735996	0	6			0		other	0
+test	128	Sound	s	1747996	0	6			0		other	0
+test	129	Sound	s	1759196	0	5			0		other	0
+test	130	Sound	s	1771996	0	6			0		other	0
+test	131	Sound	d	1784526	0	6			0		false_alarm	176
+test	131	Response	10	1787966	3440	4
+test	131	Response	10	1790866	6340	4
+test	132	Sound	s	1797326	0	6			0		other	0
+test	133	Sound	s	1810396	0	6			0		other	0
+test	134	Sound	s	1821066	0	6			0		other	0
+test	135	Sound	s	1833066	0	6			0		other	0
+test	136	Sound	s	1844536	0	6			0		other	0
+test	137	Sound	s	1856266	0	6			0		other	0
+test	138	Sound	d	1867736	0	6			0		false_alarm	185
+test	138	Response	10	1872366	4630	3
+test	138	Response	10	1872540	4804	2
+test	139	Sound	s	1880006	0	6			0		other	0
+test	140	Sound	s	1891476	0	6			0		other	0
+test	141	Sound	d	1904546	0	6			0		false_alarm	190
+test	141	Response	10	1909265	4719	4
+test	142	Sound	s	1915216	0	6			0		other	0
+test	143	Sound	s	1928546	0	6			0		other	0
+test	144	Sound	s	1939746	0	6			0		other	0
+test	145	Sound	d	1952816	0	6			0		false_alarm	195
+test	145	Response	10	1957365	4549	4
+test	146	Sound	s	1964546	0	6			0		other	0
+test	147	Sound	s	1976816	0	6			0		other	0
+test	148	Sound	s	1989346	0	6			0		other	0
+test	149	Sound	s	2001346	0	6			0		other	0
+test	150	Sound	d	2014146	0	6			0		false_alarm	201
+test	150	Response	10	2017665	3519	3
+test	150	Response	10	2017850	3704	1
+test	151	Sound	s	2025616	0	6			0		other	0
+test	152	Sound	s	2038416	0	6			0		other	0
+test	153	Sound	s	2050416	0	6			0		other	0
+test	154	Sound	s	2062416	0	6			0		other	0
+test	155	Sound	d	2073086	0	6			0		false_alarm	208
+test	155	Response	10	2078464	5378	4
+test	155	Response	10	2078664	5578	4
+test	155	Response	10	2080964	7878	4
+test	156	Sound	s	2084016	0	6			0		other	0
+test	157	Sound	s	2096816	0	6			0		other	0
+test	158	Sound	s	2109346	0	6			0		other	0
+test	159	Sound	s	2122676	0	6			0		other	0
+test	160	Sound	s	2135206	0	6			0		other	0
+test	161	Sound	s	2148006	0	6			0		other	0
+test	162	Sound	s	2158676	0	6			0		other	0
+test	163	Sound	d	2171476	0	6			0		false_alarm	219
+test	163	Response	10	2176463	4987	4
+test	164	Sound	s	2182406	0	6			0		other	0
+test	165	Sound	s	2193336	0	6			0		other	0
+test	166	Sound	s	2206406	0	6			0		other	0
+test	167	Sound	s	2217876	0	6			0		other	0
+test	168	Sound	s	2230146	0	6			0		other	0
+test	169	Sound	s	2243216	0	6			0		other	0
+test	170	Sound	d	2254416	0	6			0		false_alarm	227
+test	170	Response	10	2258963	4547	4
+test	170	Response	10	2261463	7047	4
+test	171	Sound	s	2267486	0	6			0		other	0
+test	172	Sound	s	2278686	0	6			0		other	0
+test	173	Sound	s	2289886	0	6			0		other	0
+test	174	Sound	d	2301616	0	6			0		false_alarm	233
+test	174	Response	10	2305153	3537	3
+test	175	Sound	s	2314686	0	6			0		other	0
+test	176	Sound	s	2326156	0	6			0		other	0
+test	177	Sound	s	2339226	0	6			0		other	0
+test	178	Sound	s	2349896	0	6			0		other	0
+test	179	Sound	d	2360566	0	6			0		false_alarm	239
+test	179	Response	10	2365027	4461	5
+test	180	Sound	s	2371496	0	6			0		other	0
+test	181	Sound	s	2382426	0	6			0		other	0
+test	182	Sound	s	2395756	0	6			0		other	0
+test	183	Sound	s	2407486	0	6			0		other	0
+test	184	Sound	s	2420816	0	6			0		other	0
+test	185	Sound	d	2432546	0	6			0		false_alarm	246
+test	185	Response	10	2435963	3417	2
+test	186	Sound	s	2444816	0	6			0		other	0
+test	187	Sound	d	2457086	0	6			0		false_alarm	249
+test	187	Response	10	2460451	3365	4
+test	188	Sound	s	2468286	0	6			0		other	0
+test	189	Sound	s	2479756	0	6			0		other	0
+test	190	Sound	s	2492556	0	6			0		other	0
+test	191	Sound	s	2503756	0	6			0		other	0
+test	192	Sound	s	2515486	0	6			0		other	0
+test	193	Sound	d	2526416	0	6			0		false_alarm	256
+test	193	Response	10	2529851	3435	4
+test	193	Response	10	2530023	3607	2
+test	193	Response	10	2532051	5635	4
+test	194	Sound	s	2538686	0	6			0		other	0
+test	195	Sound	s	2549886	0	6			0		other	0
+test	196	Sound	s	2561356	0	6			0		other	0
+test	197	Sound	d	2574686	0	6			0		false_alarm	263
+test	197	Response	10	2578251	3565	3
+test	198	Sound	s	2588016	0	6			0		other	0
+test	199	Sound	s	2598946	0	8			0		other	0
+test	200	Sound	d	2611476	0	6			0		false_alarm	267
+test	200	Response	10	2615020	3544	6
+test	201	Sound	s	2622146	0	6			0		other	0
+test	202	Sound	s	2632816	0	6			0		other	0
+test	203	Picture	10sec_REST	2644124	0	1	100165	2	0	next	other	0
+test	203	Picture	countdown10	2744289	100165	1	10000	2	100000	next	other	0
+test	203	Picture	countdown9	2754289	110165	1	10000	2	110000	next	other	0
+test	203	Picture	countdown8	2764289	120165	1	9999	3	120000	next	other	0
+test	203	Picture	countdown7	2774288	130164	2	10000	3	130000	next	other	0
+test	203	Picture	countdown6	2784288	140164	1	10000	2	140000	next	other	0
+test	203	Picture	countdown5	2794288	150164	1	10000	2	150000	next	other	0
+test	203	Picture	countdown4	2804288	160164	1	10000	2	160000	next	other	0
+test	203	Picture	countdown3	2814288	170164	1	10000	2	170000	next	other	0
+test	203	Picture	countdown2	2824288	180164	1	9999	3	180000	next	other	0
+test	203	Picture	countdown1	2834287	190163	2	10000	3	190000	10000	other	0
+test	204	Sound	s	2844124	0	6			0		other	0
+test	205	Sound	s	2855054	0	6			0		other	0
+test	206	Sound	s	2868124	0	6			0		other	0
+test	207	Sound	d	2880654	0	6			0		false_alarm	285
+test	207	Response	10	2883948	3294	4
+test	207	Response	10	2884076	3422	2
+test	208	Sound	s	2891324	0	6			0		other	0
+test	209	Sound	s	2903324	0	6			0		other	0
+test	210	Sound	s	2915324	0	7			0		other	0
+test	211	Sound	s	2927594	0	6			0		other	0
+test	212	Sound	s	2940924	0	6			0		other	0
+test	213	Sound	s	2953454	0	6			0		other	0
+test	214	Sound	d	2964654	0	6			0		false_alarm	294
+test	214	Response	10	2969248	4594	4
+test	214	Response	10	2971448	6794	4
+test	215	Sound	s	2976654	0	6			0		other	0
+test	216	Sound	d	2988384	0	6			0		false_alarm	298
+test	216	Response	10	2994074	5690	1
+test	217	Sound	s	3000655	0	5			0		other	0
+test	218	Sound	d	3013985	0	6			0		false_alarm	301
+test	218	Response	10	3017348	3363	3
+test	218	Response	10	3019248	5263	3
+test	219	Sound	s	3027315	0	6			0		other	0
+test	220	Sound	s	3040115	0	6			0		other	0
+test	221	Sound	s	3052645	0	7			0		other	0
+test	222	Sound	s	3064375	0	6			0		other	0
+test	223	Sound	s	3076905	0	6			0		other	0
+test	224	Sound	s	3089175	0	6			0		other	0
+test	225	Sound	d	3100905	0	6			0		false_alarm	310
+test	225	Response	10	3104247	3342	4
+test	226	Sound	s	3112376	0	5			0		other	0
+test	227	Sound	s	3124376	0	6			0		other	0
+test	228	Sound	s	3137176	0	6			0		other	0
+test	229	Sound	d	3149176	0	6			0		false_alarm	315
+test	229	Response	10	3152647	3471	3
+test	230	Sound	s	3160376	0	6			0		other	0
+test	231	Sound	s	3171306	0	6			0		other	0
+test	232	Sound	s	3183836	0	6			0		other	0
+test	233	Sound	s	3196636	0	6			0		other	0
+test	234	Sound	s	3209706	0	6			0		other	0
+test	235	Sound	s	3220376	0	6			0		other	0
+test	236	Sound	d	3232376	0	6			0		false_alarm	323
+test	236	Response	10	3235446	3070	4
+test	237	Sound	s	3243847	0	5			0		other	0
+test	238	Sound	s	3255578	0	5			0		other	0
+test	239	Sound	s	3267048	0	6			0		other	0
+test	240	Sound	s	3279318	0	6			0		other	0
+test	241	Sound	s	3290788	0	6			0		other	0
+test	242	Sound	s	3303858	0	6			0		other	0
+test	243	Sound	s	3314528	0	6			0		other	0
+test	244	Sound	s	3327859	0	5			0		other	0
+test	245	Sound	d	3339059	0	7			0		false_alarm	333
+test	245	Response	10	3343635	4576	4
+test	245	Response	10	3343752	4693	1
+test	246	Sound	s	3352129	0	6			0		other	0
+test	247	Sound	s	3363859	0	6			0		other	0
+test	248	Sound	s	3376129	0	6			0		other	0
+test	249	Sound	d	3388659	0	6			0		false_alarm	339
+test	249	Response	10	3392335	3676	4
+test	249	Response	10	3394235	5576	4
+test	250	Sound	s	3400659	0	6			0		other	0
+test	251	Sound	s	3413459	0	6			0		other	0
+test	252	Sound	s	3424929	0	6			0		other	0
+test	253	Sound	d	3437729	0	6			0		false_alarm	345
+test	253	Response	10	3441249	3520	1
+test	253	Response	10	3443235	5506	3
+test	254	Sound	s	3449729	0	6			0		other	0
+test	255	Sound	s	3461729	0	6			0		other	0
+test	256	Sound	d	3472399	0	6			0		false_alarm	350
+test	256	Response	10	3475623	3224	1
+test	257	Sound	s	3483329	0	6			0		other	0
+test	258	Sound	s	3496129	0	6			0		other	0
+test	259	Sound	s	3508659	0	6			0		other	0
+test	260	Sound	d	3521989	0	6			0		false_alarm	355
+test	260	Response	10	3525734	3745	4
+test	261	Sound	s	3534519	0	6			0		other	0
+test	262	Sound	s	3547319	0	6			0		other	0
+test	263	Sound	d	3557989	0	6			0		false_alarm	359
+test	263	Response	10	3567634	9645	4
+test	264	Sound	s	3570789	0	6			0		other	0
+test	265	Sound	s	3581719	0	6			0		other	0
+test	266	Sound	d	3592649	0	6			0		false_alarm	363
+test	266	Response	10	3602933	10284	4
+test	267	Sound	s	3605719	0	6			0		other	0
+test	268	Sound	s	3617189	0	6			0		other	0
+test	269	Sound	s	3629459	0	6			0		other	0
+test	270	Sound	s	3642529	0	6			0		other	0
+test	271	Sound	d	3653729	0	8			0		false_alarm	369
+test	271	Response	10	3658933	5204	4
+test	272	Sound	s	3666799	0	6			0		other	0
+test	273	Sound	s	3677999	0	6			0		other	0
+test	274	Sound	d	3689199	0	6			0		false_alarm	373
+test	274	Response	10	3693733	4534	4
+test	275	Sound	s	3700931	0	5			0		other	0
+test	276	Sound	s	3714001	0	6			0		other	0
+test	277	Sound	s	3725471	0	6			0		other	0
+test	278	Sound	s	3738541	0	6			0		other	0
+test	279	Sound	s	3749211	0	6			0		other	0
+test	280	Sound	s	3759881	0	6			0		other	0
+test	281	Sound	s	3770811	0	6			0		other	0
+test	282	Sound	s	3781741	0	6			0		other	0
+test	283	Sound	s	3795071	0	6			0		other	0
+test	284	Sound	s	3806801	0	6			0		other	0
+test	285	Sound	s	3820131	0	8			0		other	0
+test	286	Sound	d	3831861	0	7			0		false_alarm	386
+test	286	Response	10	3836032	4171	4
+test	287	Sound	s	3844131	0	6			0		other	0
+test	288	Sound	s	3856401	0	6			0		other	0
+test	289	Sound	s	3867601	0	6			0		other	0
+test	290	Sound	d	3879071	0	6			0		false_alarm	391
+test	290	Response	10	3882032	2961	3
+test	290	Response	10	3882174	3103	2
+test	291	Sound	s	3891871	0	6			0		other	0
+test	292	Sound	s	3903071	0	6			0		other	0
+test	293	Sound	s	3914801	0	6			0		other	0
+test	294	Sound	s	3925731	0	8			0		other	0
+test	295	Sound	s	3938001	0	6			0		other	0
+test	296	Sound	d	3949201	0	6			0		false_alarm	399
+test	296	Response	10	3953931	4730	4
+test	296	Response	10	3954047	4846	2
+test	297	Sound	s	3960671	0	6			0		other	0
+test	298	Sound	s	3974001	0	6			0		other	0
+test	299	Sound	s	3987334	0	5			0		other	0
+test	300	Sound	s	3998264	0	7			0		other	0
+test	301	Sound	s	4010794	0	6			0		other	0
+test	302	Sound	d	4021464	0	6			0		false_alarm	407
+test	302	Response	10	4026031	4567	3
+test	302	Response	10	4026231	4767	4
+test	303	Sound	s	4032134	0	6			0		other	0
+
+
+Event Type	Code	Type	Response	RT	RT Uncertainty	Time	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur
+
+Picture	83	other				-9833	1	15165	2	0	15000
+Picture	82	other				10332	1	15166	3	20000	15000
+Picture	81	other				30332	1	15166	3	40000	15000
+Sound	s	other				45500	5			0
+Sound	s	other				58570	6			0
+Sound	s	other				69500	6			0
+Sound	s	other				82030	6			0
+Sound	d	false_alarm	2	4138	10	93760	6			0
+Sound	s	other				107090	6			0
+Sound	s	other				119090	6			0
+Sound	s	other				131360	6			0
+Sound	d	other				143360	6			0
+Sound	s	other				155890	6			0
+Sound	s	other				167090	6			0
+Sound	s	other				180420	6			0
+Sound	d	other				191090	6			0
+Sound	s	other				202560	6			0
+Sound	s	other				214560	6			0
+Sound	s	other				227890	6			0
+Sound	s	other				240690	6			0
+Sound	d	false_alarm	2	4365	7	253220	6			0
+Sound	s	other				265750	6			0
+Sound	s	other				278550	6			0
+Sound	s	other				290820	5			0
+Sound	s	other				302550	6			0
+Sound	d	false_alarm	2	11826	8	314820	6			0
+Sound	s	other				326820	6			0
+Sound	s	other				339350	6			0
+Sound	s	other				351350	6			0
+Sound	d	false_alarm	2	4312	8	362020	6			0
+Sound	s	other				372950	6			0
+Sound	s	other				384680	6			0
+Sound	s	other				397480	6			0
+Sound	s	other				410551	5			0
+Sound	s	other				422021	6			0
+Sound	d	false_alarm	2	3558	9	434021	6			0
+Sound	s	other				445221	6			0
+Sound	s	other				456951	7			0
+Sound	s	other				469481	6			0
+Sound	d	false_alarm	2	4434	10	481751	6			0
+Sound	s	other				493221	6			0
+Sound	s	other				503892	5			0
+Sound	s	other				516962	6			0
+Sound	s	other				528962	6			0
+Sound	d	false_alarm	2	3353	7	540162	6			0
+Sound	s	other				553232	6			0
+Sound	s	other				564962	6			0
+Sound	s	other				577232	6			0
+Sound	d	false_alarm	2	3382	10	588702	6			0
+Sound	s	other				602032	6			0
+Sound	s	other				614832	6			0
+Sound	s	other				626302	6			0
+Sound	s	other				638302	6			0
+Sound	s	other				651102	6			0
+Sound	s	other				663102	6			0
+Sound	d	false_alarm	2	3489	7	673772	6			0
+Sound	s	other				686302	6			0
+Sound	s	other				699102	6			0
+Sound	d	false_alarm	2	3052	9	710032	6			0
+Sound	s	other				723362	6			0
+Sound	s	other				735892	6			0
+Sound	s	other				748692	6			0
+Sound	s	other				761492	6			0
+Sound	d	false_alarm	2	3221	9	772162	6			0
+Sound	s	other				783092	6			0
+Sound	s	other				794022	6			0
+Sound	s	other				807092	6			0
+Sound	s	other				818562	6			0
+Sound	s	other				830832	6			0
+Sound	d	false_alarm	2	3651	10	842032	6			0
+Sound	s	other				853232	6			0
+Sound	s	other				866302	6			0
+Sound	s	other				879372	6			0
+Sound	s	other				890572	6			0
+Sound	d	false_alarm	2	3880	10	902302	6			0
+Sound	s	other				912972	6			0
+Sound	s	other				926042	6			0
+Sound	d	false_alarm	2	3670	10	937512	6			0
+Sound	s	other				948185	5			0
+Sound	s	other				961255	6			0
+Sound	s	other				972185	6			0
+Sound	s	other				983115	6			0
+Sound	s	other				996445	6			0
+Sound	d	false_alarm	2	3764	8	1008175	6			0
+Sound	s	other				1020445	6			0
+Sound	s	other				1031645	6			0
+Sound	s	other				1043915	6			0
+Sound	s	other				1057245	6			0
+Sound	s	other				1068975	6			0
+Sound	s	other				1080445	6			0
+Sound	s	other				1093245	6			0
+Sound	d	false_alarm	2	3236	10	1104445	6			0
+Sound	s	other				1116175	6			0
+Sound	s	other				1127105	6			0
+Sound	s	other				1139375	6			0
+Sound	s	other				1150575	6			0
+Sound	s	other				1162045	6			0
+Sound	s	other				1175375	6			0
+Sound	d	false_alarm	2	4275	10	1188705	6			0
+Sound	s	other				1199635	6			0
+Sound	s	other				1212165	6			0
+Sound	s	other				1222835	6			0
+Sound	d	false_alarm	2	3875	10	1233505	6			0
+Picture	10sec_REST	other				1244813	1	100165	2	0	next
+Picture	countdown10	other				1344978	1	10000	2	100000	next
+Picture	countdown9	other				1354978	1	9999	2	110000	next
+Picture	countdown8	other				1364977	1	10000	2	120000	next
+Picture	countdown7	other				1374977	1	10000	2	130000	next
+Picture	countdown6	other				1384977	1	10000	2	140000	next
+Picture	countdown5	other				1394977	1	10000	2	150000	next
+Picture	countdown4	other				1404977	1	10000	2	160000	next
+Picture	countdown3	other				1414977	1	9999	3	170000	next
+Picture	countdown2	other				1424976	2	10000	3	180000	next
+Picture	countdown1	other				1434976	1	10000	2	190000	10000
+Sound	s	other				1444813	6			0
+Sound	s	other				1455743	6			0
+Sound	s	other				1468273	6			0
+Sound	s	other				1481343	6			0
+Sound	s	other				1493343	6			0
+Sound	d	false_alarm	2	3226	7	1504013	6			0
+Sound	s	other				1516013	6			0
+Sound	s	other				1529343	6			0
+Sound	s	other				1541613	6			0
+Sound	d	false_alarm	2	3825	10	1554143	6			0
+Sound	s	other				1566144	5			0
+Sound	s	other				1577344	6			0
+Sound	s	other				1590675	5			0
+Sound	s	other				1602945	6			0
+Sound	d	false_alarm	2	5192	10	1616275	6			0
+Sound	s	other				1628005	6			0
+Sound	s	other				1639736	6			0
+Sound	d	false_alarm	2	3601	10	1652266	6			0
+Sound	s	other				1665066	6			0
+Sound	s	other				1677596	6			0
+Sound	s	other				1689066	6			0
+Sound	s	other				1700796	6			0
+Sound	s	other				1713066	6			0
+Sound	d	false_alarm	2	3301	9	1725066	6			0
+Sound	s	other				1735996	6			0
+Sound	s	other				1747996	6			0
+Sound	s	other				1759196	5			0
+Sound	s	other				1771996	6			0
+Sound	d	false_alarm	2	3440	10	1784526	6			0
+Sound	s	other				1797326	6			0
+Sound	s	other				1810396	6			0
+Sound	s	other				1821066	6			0
+Sound	s	other				1833066	6			0
+Sound	s	other				1844536	6			0
+Sound	s	other				1856266	6			0
+Sound	d	false_alarm	2	4630	9	1867736	6			0
+Sound	s	other				1880006	6			0
+Sound	s	other				1891476	6			0
+Sound	d	false_alarm	2	4719	10	1904546	6			0
+Sound	s	other				1915216	6			0
+Sound	s	other				1928546	6			0
+Sound	s	other				1939746	6			0
+Sound	d	false_alarm	2	4549	10	1952816	6			0
+Sound	s	other				1964546	6			0
+Sound	s	other				1976816	6			0
+Sound	s	other				1989346	6			0
+Sound	s	other				2001346	6			0
+Sound	d	false_alarm	2	3519	9	2014146	6			0
+Sound	s	other				2025616	6			0
+Sound	s	other				2038416	6			0
+Sound	s	other				2050416	6			0
+Sound	s	other				2062416	6			0
+Sound	d	false_alarm	2	5378	10	2073086	6			0
+Sound	s	other				2084016	6			0
+Sound	s	other				2096816	6			0
+Sound	s	other				2109346	6			0
+Sound	s	other				2122676	6			0
+Sound	s	other				2135206	6			0
+Sound	s	other				2148006	6			0
+Sound	s	other				2158676	6			0
+Sound	d	false_alarm	2	4987	10	2171476	6			0
+Sound	s	other				2182406	6			0
+Sound	s	other				2193336	6			0
+Sound	s	other				2206406	6			0
+Sound	s	other				2217876	6			0
+Sound	s	other				2230146	6			0
+Sound	s	other				2243216	6			0
+Sound	d	false_alarm	2	4547	10	2254416	6			0
+Sound	s	other				2267486	6			0
+Sound	s	other				2278686	6			0
+Sound	s	other				2289886	6			0
+Sound	d	false_alarm	2	3537	9	2301616	6			0
+Sound	s	other				2314686	6			0
+Sound	s	other				2326156	6			0
+Sound	s	other				2339226	6			0
+Sound	s	other				2349896	6			0
+Sound	d	false_alarm	2	4461	11	2360566	6			0
+Sound	s	other				2371496	6			0
+Sound	s	other				2382426	6			0
+Sound	s	other				2395756	6			0
+Sound	s	other				2407486	6			0
+Sound	s	other				2420816	6			0
+Sound	d	false_alarm	2	3417	8	2432546	6			0
+Sound	s	other				2444816	6			0
+Sound	d	false_alarm	2	3365	10	2457086	6			0
+Sound	s	other				2468286	6			0
+Sound	s	other				2479756	6			0
+Sound	s	other				2492556	6			0
+Sound	s	other				2503756	6			0
+Sound	s	other				2515486	6			0
+Sound	d	false_alarm	2	3435	10	2526416	6			0
+Sound	s	other				2538686	6			0
+Sound	s	other				2549886	6			0
+Sound	s	other				2561356	6			0
+Sound	d	false_alarm	2	3565	9	2574686	6			0
+Sound	s	other				2588016	6			0
+Sound	s	other				2598946	8			0
+Sound	d	false_alarm	2	3544	12	2611476	6			0
+Sound	s	other				2622146	6			0
+Sound	s	other				2632816	6			0
+Picture	10sec_REST	other				2644124	1	100165	2	0	next
+Picture	countdown10	other				2744289	1	10000	2	100000	next
+Picture	countdown9	other				2754289	1	10000	2	110000	next
+Picture	countdown8	other				2764289	1	9999	3	120000	next
+Picture	countdown7	other				2774288	2	10000	3	130000	next
+Picture	countdown6	other				2784288	1	10000	2	140000	next
+Picture	countdown5	other				2794288	1	10000	2	150000	next
+Picture	countdown4	other				2804288	1	10000	2	160000	next
+Picture	countdown3	other				2814288	1	10000	2	170000	next
+Picture	countdown2	other				2824288	1	9999	3	180000	next
+Picture	countdown1	other				2834287	2	10000	3	190000	10000
+Sound	s	other				2844124	6			0
+Sound	s	other				2855054	6			0
+Sound	s	other				2868124	6			0
+Sound	d	false_alarm	2	3294	10	2880654	6			0
+Sound	s	other				2891324	6			0
+Sound	s	other				2903324	6			0
+Sound	s	other				2915324	7			0
+Sound	s	other				2927594	6			0
+Sound	s	other				2940924	6			0
+Sound	s	other				2953454	6			0
+Sound	d	false_alarm	2	4594	10	2964654	6			0
+Sound	s	other				2976654	6			0
+Sound	d	false_alarm	2	5690	7	2988384	6			0
+Sound	s	other				3000655	5			0
+Sound	d	false_alarm	2	3363	9	3013985	6			0
+Sound	s	other				3027315	6			0
+Sound	s	other				3040115	6			0
+Sound	s	other				3052645	7			0
+Sound	s	other				3064375	6			0
+Sound	s	other				3076905	6			0
+Sound	s	other				3089175	6			0
+Sound	d	false_alarm	2	3342	10	3100905	6			0
+Sound	s	other				3112376	5			0
+Sound	s	other				3124376	6			0
+Sound	s	other				3137176	6			0
+Sound	d	false_alarm	2	3471	9	3149176	6			0
+Sound	s	other				3160376	6			0
+Sound	s	other				3171306	6			0
+Sound	s	other				3183836	6			0
+Sound	s	other				3196636	6			0
+Sound	s	other				3209706	6			0
+Sound	s	other				3220376	6			0
+Sound	d	false_alarm	2	3070	10	3232376	6			0
+Sound	s	other				3243847	5			0
+Sound	s	other				3255578	5			0
+Sound	s	other				3267048	6			0
+Sound	s	other				3279318	6			0
+Sound	s	other				3290788	6			0
+Sound	s	other				3303858	6			0
+Sound	s	other				3314528	6			0
+Sound	s	other				3327859	5			0
+Sound	d	false_alarm	2	4576	11	3339059	7			0
+Sound	s	other				3352129	6			0
+Sound	s	other				3363859	6			0
+Sound	s	other				3376129	6			0
+Sound	d	false_alarm	2	3676	10	3388659	6			0
+Sound	s	other				3400659	6			0
+Sound	s	other				3413459	6			0
+Sound	s	other				3424929	6			0
+Sound	d	false_alarm	2	3520	7	3437729	6			0
+Sound	s	other				3449729	6			0
+Sound	s	other				3461729	6			0
+Sound	d	false_alarm	2	3224	7	3472399	6			0
+Sound	s	other				3483329	6			0
+Sound	s	other				3496129	6			0
+Sound	s	other				3508659	6			0
+Sound	d	false_alarm	2	3745	10	3521989	6			0
+Sound	s	other				3534519	6			0
+Sound	s	other				3547319	6			0
+Sound	d	false_alarm	2	9645	10	3557989	6			0
+Sound	s	other				3570789	6			0
+Sound	s	other				3581719	6			0
+Sound	d	false_alarm	2	10284	10	3592649	6			0
+Sound	s	other				3605719	6			0
+Sound	s	other				3617189	6			0
+Sound	s	other				3629459	6			0
+Sound	s	other				3642529	6			0
+Sound	d	false_alarm	2	5204	12	3653729	8			0
+Sound	s	other				3666799	6			0
+Sound	s	other				3677999	6			0
+Sound	d	false_alarm	2	4534	10	3689199	6			0
+Sound	s	other				3700931	5			0
+Sound	s	other				3714001	6			0
+Sound	s	other				3725471	6			0
+Sound	s	other				3738541	6			0
+Sound	s	other				3749211	6			0
+Sound	s	other				3759881	6			0
+Sound	s	other				3770811	6			0
+Sound	s	other				3781741	6			0
+Sound	s	other				3795071	6			0
+Sound	s	other				3806801	6			0
+Sound	s	other				3820131	8			0
+Sound	d	false_alarm	2	4171	11	3831861	7			0
+Sound	s	other				3844131	6			0
+Sound	s	other				3856401	6			0
+Sound	s	other				3867601	6			0
+Sound	d	false_alarm	2	2961	9	3879071	6			0
+Sound	s	other				3891871	6			0
+Sound	s	other				3903071	6			0
+Sound	s	other				3914801	6			0
+Sound	s	other				3925731	8			0
+Sound	s	other				3938001	6			0
+Sound	d	false_alarm	2	4730	10	3949201	6			0
+Sound	s	other				3960671	6			0
+Sound	s	other				3974001	6			0
+Sound	s	other				3987334	5			0
+Sound	s	other				3998264	7			0
+Sound	s	other				4010794	6			0
+Sound	d	false_alarm	2	4567	9	4021464	6			0
+Sound	s	other				4032134	6			0

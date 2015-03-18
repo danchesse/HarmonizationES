@@ -1,0 +1,64 @@
+Scenario - NA1_naplsHarmonization03172015
+Logfile written - 03/17/2015 15:59:22
+
+Subject	Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+test	1	Picture	83	-9833	0	1	15165	3	0	15000	other	0
+test	1	Picture	82	10332	20165	1	15167	2	20000	15000	other	0
+test	1	Picture	81	30332	40165	1	15166	3	40000	15000	other	0
+test	2	Sound	s	45500	0	5			0		other	0
+test	3	Sound	s	58570	0	6			0		other	0
+test	4	Sound	s	69500	0	6			0		other	0
+test	5	Sound	s	82030	0	6			0		other	0
+test	6	Sound	d	93760	0	6			0		other	0
+test	7	Sound	s	107090	0	6			0		other	0
+test	8	Sound	s	119090	0	6			0		other	0
+test	9	Sound	s	131360	0	6			0		other	0
+test	10	Sound	d	143360	0	6			0		false_alarm	13
+test	10	Response	10	148496	5136	3
+test	11	Sound	s	155890	0	6			0		other	0
+test	12	Sound	s	167090	0	6			0		other	0
+test	13	Sound	s	180420	0	6			0		other	0
+test	14	Sound	d	191090	0	6			0		false_alarm	18
+test	14	Response	10	196164	5074	2
+test	15	Sound	s	202560	0	6			0		other	0
+test	16	Sound	s	214560	0	6			0		other	0
+test	17	Sound	s	227890	0	6			0		other	0
+test	18	Sound	s	240690	0	9			0		other	0
+test	19	Sound	d	253220	0	6			0		false_alarm	24
+test	19	Response	10	256895	3675	4
+test	19	Response	10	257095	3875	4
+test	20	Sound	s	265750	0	6			0		other	0
+test	21	Sound	s	278550	0	6			0		other	0
+test	22	Sound	s	290820	0	6			0		other	0
+test	23	Sound	s	302550	0	6			0		other	0
+test	23	Quit		311008	8458
+
+
+Event Type	Code	Type	Response	RT	RT Uncertainty	Time	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur
+
+Picture	83	other				-9833	1	15165	3	0	15000
+Picture	82	other				10332	1	15167	2	20000	15000
+Picture	81	other				30332	1	15166	3	40000	15000
+Sound	s	other				45500	5			0
+Sound	s	other				58570	6			0
+Sound	s	other				69500	6			0
+Sound	s	other				82030	6			0
+Sound	d	other				93760	6			0
+Sound	s	other				107090	6			0
+Sound	s	other				119090	6			0
+Sound	s	other				131360	6			0
+Sound	d	false_alarm	2	5136	9	143360	6			0
+Sound	s	other				155890	6			0
+Sound	s	other				167090	6			0
+Sound	s	other				180420	6			0
+Sound	d	false_alarm	2	5074	8	191090	6			0
+Sound	s	other				202560	6			0
+Sound	s	other				214560	6			0
+Sound	s	other				227890	6			0
+Sound	s	other				240690	9			0
+Sound	d	false_alarm	2	3675	10	253220	6			0
+Sound	s	other				265750	6			0
+Sound	s	other				278550	6			0
+Sound	s	other				290820	6			0
+Sound	s	other				302550	6			0
