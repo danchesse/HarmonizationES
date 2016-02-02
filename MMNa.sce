@@ -2,7 +2,7 @@
 #includes long duration deviants (p = .10) and target 
 #blue circles (p = .20)
  
-scenario = "nvMMNa_naplsHarmonization_03172015blue"; 
+scenario = "nvMMNa_naplsHarmonization_02022016blue"; 
 #attenuation updated for ER1 insert earphones and X-fi gamer card
 pcl_file = "nvMMNCommands.pcl";
 scenario_type = trials	; 
