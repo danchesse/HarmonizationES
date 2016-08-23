@@ -24,7 +24,7 @@ bitmap { filename = "F.pcx";} F;
 bitmap { filename = "T.pcx";} T;
 bitmap { filename = "default.pcx";} blankPCX;
 
-wavefile { filename = "nvmmn_instructionsES.m4a"; } visInstruct;
+wavefile { filename = "nvmmn_instructionsES.wav"; } visInstruct;
 sound {
     wavefile visInstruct;
     attenuation = 0.2;
